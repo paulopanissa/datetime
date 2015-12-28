@@ -1,0 +1,22 @@
+{
+  "name": "pp-datetime",
+  "version": "1.0.0",
+  "description": "Timestamp private to my project",
+  "main": "datetime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulopanissa/datetime.git"
+  },
+  "keywords": [
+    "timestamp"
+  ],
+  "author": "Paulo Panissa Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulopanissa/timestamp/issues"
+  },
+  "homepage": "https://github.com/paulopanissa/timestamp#readme"
+}
